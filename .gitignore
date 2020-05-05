@@ -1,3 +1,5 @@
+*.pb.c
+*.pb.h
 build
 .vscode
 proto/pb
