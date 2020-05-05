@@ -1,0 +1,6 @@
+syntax = "proto3";
+package user;
+
+message  lucky {
+    int32 lucky_number = 1;
+}
